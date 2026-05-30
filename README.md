@@ -1,1 +1,0 @@
-# blaziken-ios-app
