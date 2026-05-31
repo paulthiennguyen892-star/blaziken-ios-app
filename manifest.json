@@ -1,0 +1,19 @@
+{
+  "name": "Blaziken TCG Checklist",
+  "short_name": "Blaziken TCG",
+  "description": "A complete English Blaziken Pokemon TCG checklist with print and finish variants.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0704",
+  "theme_color": "#160c04",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
